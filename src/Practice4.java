@@ -9,6 +9,8 @@ public class Practice4 {
         they indicate they are done entering values. Turn part of this into a METHOD.
         */
 
+        //Incomplete
+
         Scanner scan = new Scanner(System.in);
         String trash = "";
         boolean done = false;

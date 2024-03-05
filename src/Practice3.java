@@ -4,6 +4,13 @@ import java.util.Scanner;
 public class Practice3 {
     public static void main(String[] args) {
 
+        /*
+        Write a program that will tell a user how many years it will take an initial investment
+        (that they input) to double in size if the interest rate is .05%.
+         */
+        
+        //Incomplete
+
         Scanner scan = new Scanner(System.in);
         String trash = "";
         double initialInvest = 0;

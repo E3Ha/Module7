@@ -8,6 +8,8 @@ public class Practice5 {
            Write a nested FOR loop that prints the following Z (9 is the magic number here):
         */
 
+        //Incomplete
+
         Scanner scan = new Scanner(System.in);
         String trash = "";
 
