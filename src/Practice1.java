@@ -8,19 +8,15 @@ public class Practice1 {
         Scanner scan = new Scanner(System.in);
         String trash = "";
         int i;
-        int sum = 2;
+        int inc = 0;
+        int sum = 0;
 
         //For loop - runs 50 times
         for (i = 0; i < 50; i++){
-
-            while (sum < 100) {
-
-                sum = sum + 2;
-
-            }
-
+                inc = inc + 2;
+                sum = sum + inc;
         }
-
+        System.out.println("Sum: " + sum);
 
 
     }
