@@ -19,6 +19,7 @@ public class Practice2 {
 
         boolean done = false;
         int validInput = 0;
+        String trash = "";
 
         //issue - continually loops if not an integer
         do {
@@ -33,10 +34,12 @@ public class Practice2 {
                 }
                 else{
                     System.out.println("Value must be less than 100");
+                    trash = scan.nextLine();
                 }
             }
             else{
                 System.out.println("Must be an integer");
+                trash = scan.nextLine();
             }
             System.out.println("");
         }

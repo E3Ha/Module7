@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e16ce8bd-41c3-4831-a3ba-dd9467693ac5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice5.java" afterDir="false" />
-    </list>
+    <list default="true" id="e16ce8bd-41c3-4831-a3ba-dd9467693ac5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +33,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice3">
+  <component name="RunManager" selected="Application.Practice2">
     <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice1" />
       <module name="Module7" />
@@ -68,12 +62,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5" />
+      <module name="Module7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice3" />
-        <item itemvalue="Application.Practice4" />
-        <item itemvalue="Application.Practice1" />
         <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.Practice1" />
+        <item itemvalue="Application.Practice5" />
+        <item itemvalue="Application.Practice4" />
+        <item itemvalue="Application.Practice3" />
       </list>
     </recent_temporary>
   </component>
@@ -93,11 +95,27 @@
       <option name="project" value="LOCAL" />
       <updated>1709579104013</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2:03 3/5/2024">
+      <created>1709665413948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709665413948</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2:05 3/5/2024">
+      <created>1709665493067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709665493067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2:05 3/4/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="2:05 3/4/2024" />
+    <MESSAGE value="2:03 3/5/2024" />
+    <MESSAGE value="2:05 3/5/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="2:05 3/5/2024" />
   </component>
 </project>
