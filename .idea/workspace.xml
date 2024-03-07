@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16ce8bd-41c3-4831-a3ba-dd9467693ac5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LabTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LabTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LabTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LabTask8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LabTask9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709751830397</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1:46 3/7/2024">
+      <created>1709837195200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709837195200</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +141,7 @@
     <MESSAGE value="2:05 3/5/2024" />
     <MESSAGE value="1:28 3/6/2024" />
     <MESSAGE value="2:04 3/6/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="2:04 3/6/2024" />
+    <MESSAGE value="1:46 3/7/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:46 3/7/2024" />
   </component>
 </project>

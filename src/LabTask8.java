@@ -76,6 +76,7 @@ public class LabTask8 {
                         fOutput = ((cInput * 9) / 5) + 32;
                         System.out.println("Celsius: " + cInput);
                         System.out.println("Fahrenheit: " + fOutput);
+                        done = true;
                     } else {
                         trash = scan.nextLine();
                         System.out.println("Incorrect Input.");
