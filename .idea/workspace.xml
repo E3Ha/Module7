@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16ce8bd-41c3-4831-a3ba-dd9467693ac5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LabTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LabTask6">
-    <configuration name="LabTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LabTask3" />
-      <module name="Module7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LabTask8">
     <configuration name="LabTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LabTask4" />
       <module name="Module7" />
@@ -78,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LabTask8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabTask8" />
+      <module name="Module7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LabTask8" />
+        <item itemvalue="Application.LabTask7" />
         <item itemvalue="Application.LabTask6" />
         <item itemvalue="Application.LabTask5" />
-        <item itemvalue="Application.LabTask7" />
         <item itemvalue="Application.LabTask4" />
-        <item itemvalue="Application.LabTask3" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709749656467</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2:04 3/6/2024">
+      <created>1709751830397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709751830397</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +138,7 @@
     <MESSAGE value="2:03 3/5/2024" />
     <MESSAGE value="2:05 3/5/2024" />
     <MESSAGE value="1:28 3/6/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="1:28 3/6/2024" />
+    <MESSAGE value="2:04 3/6/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="2:04 3/6/2024" />
   </component>
 </project>
