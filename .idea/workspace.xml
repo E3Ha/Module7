@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16ce8bd-41c3-4831-a3ba-dd9467693ac5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LabTask8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LabTask8">
+  <component name="RunManager" selected="Application.LabTask6">
     <configuration name="LabTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LabTask4" />
       <module name="Module7" />
@@ -73,9 +74,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LabTask6" />
         <item itemvalue="Application.LabTask8" />
         <item itemvalue="Application.LabTask7" />
-        <item itemvalue="Application.LabTask6" />
         <item itemvalue="Application.LabTask5" />
         <item itemvalue="Application.LabTask4" />
       </list>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709837195200</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1:50 3/7/2024">
+      <created>1709837419021</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709837419021</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +150,7 @@
     <MESSAGE value="1:28 3/6/2024" />
     <MESSAGE value="2:04 3/6/2024" />
     <MESSAGE value="1:46 3/7/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="1:46 3/7/2024" />
+    <MESSAGE value="1:50 3/7/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:50 3/7/2024" />
   </component>
 </project>
