@@ -25,14 +25,18 @@ public class NoteAssignment {
         boolean done = false;
 
         do {
+            //Ask for move
             System.out.println("Move: ");
+            //Check for incorrect input
             if (scan.hasNextDouble()) {
                 System.out.println("Incorrect Input ");
                 trash = scan.nextLine();
-            } else {
+            }
+            //Correct input type
+            else {
                 m = scan.nextLine();
                 m = m.toLowerCase();
-
+                //Check for correct move-type
                 switch (m) {
                     case "r":
                     case "p":
